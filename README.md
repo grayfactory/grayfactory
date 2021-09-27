@@ -1,4 +1,3 @@
-# Yosup So
 ### 안녕하세요.
 ### 주니어 Data Scientist 소요섭 입니다.
 
