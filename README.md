@@ -1,5 +1,5 @@
-### 안녕하세요.
-### 주니어 Data Scientist 소요섭 입니다.
+
+## 주니어 Data Scientist
 
 Email. **humanfactory.og@gmail.com**
 
